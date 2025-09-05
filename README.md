@@ -1,0 +1,5 @@
+- Implemented text preprocessing (lowercasing, tokenization, stopword removal, stemming)
+- Trained ML model using TF-IDF vectorization
+- Added accuracy and precision evaluation metrics
+- Integrated Streamlit app for interactive testing
+- Prepared dataset for training and testing
