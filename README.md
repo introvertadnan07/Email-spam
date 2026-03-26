@@ -3,3 +3,4 @@
 - Added accuracy and precision evaluation metrics
 - Integrated Streamlit app for interactive testing
 - Prepared dataset for training and testing
+- deployed
